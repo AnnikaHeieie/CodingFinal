@@ -1,0 +1,1263 @@
+.u-section-1 {
+  min-height: 848px;
+  background-image: none;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 713px;
+  margin: 64px calc(((100% - 1140px) / 2) + 21px) 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 604px;
+  min-height: 568px;
+  margin: -713px auto 60px calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px 24px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 7.5rem;
+  line-height: 1;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 20px 199px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 810px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 483px;
+    height: 659px;
+    margin-top: 80px;
+    margin-right: calc(((100% - 940px) / 2) + 21px);
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 490px;
+    min-height: 497px;
+    margin-top: -659px;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 85px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 1000px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 450px;
+    height: 520px;
+    margin-top: 409px;
+    margin-right: calc(((100% - 720px) / 2) + 21px);
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+    min-height: 427px;
+    margin-top: -869px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 960px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 397px;
+    height: 478px;
+    margin-top: 441px;
+    margin-right: calc(((100% - 540px) / 2) + 21px);
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    min-height: 371px;
+    margin-top: -849px;
+    margin-bottom: 61px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 956px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 305px;
+    height: 367px;
+    margin-top: 515px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    min-height: 411px;
+    margin-top: -822px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 452px;
+  background-image: url("https://www.aclu.org/sites/default/files/field_image/web16-blog-transflag-1160x768.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 227px;
+  }
+}.u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-3 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 452px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nonbinary_flag_square_avatar.svg/1024px-Nonbinary_flag_square_avatar.svg.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 227px;
+  }
+}.u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-4 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 452px;
+  background-image: url("https://ae01.alicdn.com/kf/H10479619050c465db4bec1dbb738db47c/johnin-90x150cm-LGBTQIA-genderqueer-Flag.jpg_960x960.jpg");
+  background-position: 50% 50%;
+  background-size: 130%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-4 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-4 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-4 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 227px;
+  }
+}.u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-5 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 452px;
+  background-image: url("https://static.miraheze.org/nonbinarywiki/5/58/Agender-2.png");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-5 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-5 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-5 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 227px;
+  }
+}.u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-6 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-6 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-6 .u-image-1 {
+  min-height: 452px;
+  background-image: url("https://www.crushpixel.com/big-static16/preview4/genderfluid-flag-rectangular-shape-icon-2423190.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-6 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-6 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-6 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 227px;
+  }
+}.u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-7 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-7 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-7 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-7 .u-image-1 {
+  min-height: 452px;
+  background-image: url("https://st4.depositphotos.com/11742109/24622/v/1600/depositphotos_246227558-stock-illustration-bigender-pride-flag-one-communities.jpg");
+  background-position: 41.23% 0%;
+  background-size: 110%;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-7 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-7 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-7 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-7 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 227px;
+  }
+}.u-section-8 {
+  background-image: none;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-8 .u-shape-1 {
+  width: 487px;
+  height: 612px;
+  margin: 0 113px 0 auto;
+}
+
+.u-section-8 .u-layout-wrap-1 {
+  margin-top: -532px;
+  margin-bottom: -178px;
+  margin-left: auto;
+}
+
+.u-section-8 .u-layout-cell-1 {
+  min-height: 452px;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px 48px 30px 30px;
+}
+
+.u-section-8 .u-text-1 {
+  font-size: 1.875rem;
+  line-height: 1.8;
+  font-style: normal;
+  text-transform: none;
+  margin: -73px 0 -15px;
+}
+
+.u-section-8 .u-image-1 {
+  min-height: 452px;
+  background-image: url("images/Screenshot2021-03-27at2.43.45PM.png");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-shape-1 {
+    width: 357px;
+    left: auto;
+    right: 113px;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-8 .u-shape-1 {
+    width: 206px;
+    height: 501px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 113px 0 auto;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    margin-top: -437px;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-8 .u-shape-1 {
+    width: 640px;
+    height: 223px;
+    margin-top: 358px;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    margin-top: -521px;
+    margin-bottom: -1px;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 358px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-8 .u-shape-1 {
+    width: 440px;
+    height: 133px;
+    margin-top: 60px;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    margin-top: -457px;
+    margin-bottom: -264px;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 227px;
+  }
+}
